@@ -1,5 +1,5 @@
 
-package scannerıleınputalma;
+package com.isaemrekonuk;
 
 import java.util.Scanner; //Scanner sınıfını import ettik.
 import javax.swing.JOptionPane; //JOptionPane sınıfını import ettik.
