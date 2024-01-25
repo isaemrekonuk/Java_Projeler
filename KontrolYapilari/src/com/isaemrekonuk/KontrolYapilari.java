@@ -115,6 +115,7 @@ public class KontrolYapilari {
                     .
                 default:
                     sayi değeri sağlanımıyorsa bu kod bloğu çalışır.
+                break;
             }
         */
         //Switch case yapısında, programın kontrolünün ifadenin değerine göre case seçeneklerinden sadece birini çalıştırıp bundan sonra switch case yapısını terk etmesini istiyorsak bu durumda her case seçeneğinden sonra break komutu yazmalıyız.
@@ -143,6 +144,7 @@ public class KontrolYapilari {
                 break;
             default: //Sayi değeri sağlanmıyor ise bu kod bloğu çalışacak.
                 System.out.println("Geçersiz bir değer girdiniz..!"); //Ekrana yazdırma işlemi yapıyoruz.
+                break;
         }
     
     }
