@@ -1,5 +1,5 @@
 
-package miniproje_girilenikisayininebobunubulma;
+package com.isaemrekonuk;
 
 import java.util.Scanner;
 
