@@ -1,5 +1,5 @@
 
-package miniproje_ıdmanprojesi;
+package com.isaemrekonuk;
 
 import java.util.Scanner;
 
